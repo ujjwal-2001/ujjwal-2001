@@ -77,7 +77,7 @@ I am a M. Tech. Electronic Systems Engineering 2023-25 student at IISc Bangalore
   
   </p>
   <p align="right">
-    <a href="https://github.com/amangupta143?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
+    <a href="https://github.com/ujjwal-2001?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
   </p>
 
 
