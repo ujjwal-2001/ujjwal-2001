@@ -8,7 +8,7 @@
 
 <!-- Short Bio -->
 <!-- </samp> for  -->
-I am a MTech. Electronic Systems Engineering 2023-25 student at IISc Bangalore. I have completed my B. Tech. in Electronics & Communication Engineering from NIT Hamirpur in 2023. I am a VLSI enthusiast and I am looking for job opportunities in VLSI industry, specifically in Digital domain.
+I am a MTech Electronic Systems Engineering 2023-25 student at IISc Bangalore. I have completed my BTech in Electronics & Communication Engineering from NIT Hamirpur in 2023. I am a VLSI enthusiast and I am looking for job opportunities in VLSI industry, specifically in Digital domain.
 <!-- Tech Stack -->
 
 <h2>Tech Stack</h2>
